@@ -1,1 +1,1 @@
-# bash_scripting
+## Some simple Bash scripts for practice
